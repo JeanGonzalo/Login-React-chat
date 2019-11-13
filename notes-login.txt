@@ -1,0 +1,6 @@
+npx create-react-app {name-project}
+
+npm i react-router-dom
+npm install @material-ui/core
+
+
